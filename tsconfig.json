@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "files": [],
   "references": [
@@ -18,24 +18,3 @@
     "strictNullChecks": false
   }
 }
-=======
-{
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ],
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"]
-    },
-    "noImplicitAny": false,
-    "noUnusedParameters": false,
-    "skipLibCheck": true,
-    "allowJs": true,
-    "noUnusedLocals": false,
-    "strictNullChecks": false
-  }
-}
->>>>>>> 5b409c728ea4e036e17a1e2125f482bae44118c7
