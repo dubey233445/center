@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
-  base: '/ai-center-launchpad/', // Required for GitHub Pages
+  base: '/center/', // Required for GitHub Pages
   server: {
     host: "::",
     port: 8080,
@@ -17,3 +17,4 @@ export default defineConfig({
     },
   },
 })
+
