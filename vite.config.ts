@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
- base: '/center/', // <== This must match the GitHub repo name
+  base: '/cente/', // <== This must match the GitHub repo name
   server: {
     host: "::",
     port: 8080,
