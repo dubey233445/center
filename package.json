@@ -1,6 +1,6 @@
 {
   "name": "vite_react_shadcn_ts",
-  "homepage": "https://dubey233445.github.io/ai-center-launchpad",
+ "homepage": "https://dubey233445.github.io/center",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -87,3 +87,4 @@
     "vite": "^5.4.19"
   }
 }
+
